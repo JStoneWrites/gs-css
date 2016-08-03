@@ -47,6 +47,19 @@ h2,h3,h4,h5,h6 { color: green; }
 } */
 
 /* descendant selectors */
+.nav ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+.nav li
+{
+	display: inline;
+	margin-right: 1em;
+}
+
+.nav a { }
 
 /* child selectors */
 

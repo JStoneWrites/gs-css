@@ -62,6 +62,7 @@ h2,h3,h4,h5,h6 { color: green; }
 .nav li a { color: #fff; }
 
 /* child selectors */
+.nav li > a { text-decoration: none;}
 
 /* adjacent sibling selectors */
 

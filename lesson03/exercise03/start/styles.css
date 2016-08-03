@@ -30,6 +30,14 @@ h2,h3,h4,h5,h6 { color: green; }
 }
 
 /* ID selectors */
+#header,#footer
+{
+	padding: 2em;
+	color: #fff;
+	background: #000;
+}
+
+#main { margin: 1em 2em; }
 
 /* universal selectors */
 
