@@ -23,8 +23,12 @@ th { background-color: #eee; }
 
 /* add rules here */
 
+h2 { color: green; }
 
+.news { color: blue; }
 
+h2.news { color: orange; }
 
+#news { color: purple; }
 
-
+h2#news { color: aqua; }
