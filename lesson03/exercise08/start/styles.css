@@ -68,3 +68,8 @@ h2,h3,h4,h5,h6 { color: green; }
 h3 + h4 { margin-top: 2em; }
 
 /* link pseudo-class selectors */
+a:link { color: green; }
+a:visited { color: brown; }
+a:focus { color: black; }
+a:hover { color: lime; }
+a:active { color: red; }
