@@ -110,4 +110,17 @@ class styles
 /* -----------------------------------
 print styles
 ----------------------------------- */
+ @media print
+{
+       *
+       {
+         background: transparent !important;
+         color: #000 !important;
+         box-shadow: none !important;
+         text-shadow: none !important;
+       }
 
+       img { max-width: 100% !important; }
+
+       .nav { display: none;}
+}
