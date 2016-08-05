@@ -22,19 +22,16 @@ h2
 }
 
 /* add the property */
+h2 { position: fixed; }
 
 /* understanding values */
+h2 { left: 20px; }
+h2 { top: 20px; }
 
 /* stretched */
-
+h2 {
+	left: 0;
+	right: 0;
+}
 /* sized */
-
-
-
-
-
-
-
-
-
-
+h2 {width: 300px;}

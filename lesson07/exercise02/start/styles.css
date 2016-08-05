@@ -22,7 +22,13 @@ h2,strong
 }
 
 /* add the property */
+h2, strong { position: relative;}
 
 /* understanding values */
+h2, strong { left: 20px;}
+h2, strong { top: 20px;}
+h2, strong { left: -20px;}
+h2, strong { top: -20px;}
 
 /* sized */
+h2, strong { width: 300px; }

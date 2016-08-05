@@ -37,6 +37,6 @@ h1 { margin: 0 0 .5em; }
 }
 
 /* add rules here */
-
-
-
+.test01 { z-index: 10;}
+.test02 { z-index: -5;}
+.test03 { z-index: 20;}
