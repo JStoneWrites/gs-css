@@ -22,3 +22,11 @@ h2
 }
 
 /* add rules here */
+.example01
+{
+	float:left;
+	margin: 0;
+	width: 100%;
+}
+
+p { border: 5px solid blue; }
