@@ -20,3 +20,7 @@ h1 { margin: 0 0 .5em; }
 .example03 { clear: both; }
 
 /* add rules here */
+.example01 { background-repeat: repeat; }
+.example04 { background-repeat: repeat-x; }
+.example03 { background-repeat: repeat-y; }
+.example02 { background-repeat: no-repeat; }
